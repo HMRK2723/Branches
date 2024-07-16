@@ -1,0 +1,10 @@
+h1 {
+    background-color: antiquewhite;
+    color: burlywood;
+    transition: all 0.3s ease-out;
+}
+
+h1:hover {
+    color: antiquewhite;
+    background-color: burlywood;
+}
